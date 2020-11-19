@@ -1,6 +1,6 @@
 # sqlalchemy-challenge-hw8
 
-ALL FILES IN 'final' folder
+ALL files in 'final' folder
 
 code files to grade:
 
